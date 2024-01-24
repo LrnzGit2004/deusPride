@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 > 📫 How to reach me [[here](dexter.serval@gmail.com)]
 
 <!---[![Daniel's github stats](https://github-stats-me.vercel.app/api?username=deusPride&show_icons=true&theme=radical)](https://github.com/deusPride/github-readme-stats)--->
-[![GitHub Streak](https://streak-stats.demolab.com?user=deusPride&theme=dark)](https://github.com/deusPride/scheduler)
+[![GitHub Streak](https://streak-stats.demolab.com?user=deusPride&theme=dark)](https://github.com/deusPride/chatbot)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deusPride&layout=compact&theme=github_dark)](https://github.com/deusPride/github-readme-stats)
 ## My skills
