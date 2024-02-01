@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deusPride&layout=compact&theme=github_dark)](https://github.com/deusPride/github-readme-stats)
 ## My skills
-![My Skills](https://skillicons.dev/icons?i=js,c,cpp,git,github,react,html,css,jquery,py,vercel,sass,vscode,styledcomponents,nodejs&perline=9)
+![My Skills](https://skillicons.dev/icons?i=py,js,php,html,css,jquery,vue,react,wordpress,blender,git,github,vercel,sass,vscode,nodejs&perline=8)
 <!---
 deusPride/deusPride is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
